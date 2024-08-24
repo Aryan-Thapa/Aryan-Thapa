@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-thapa&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-thapa" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 📫 How to reach me **aryanthapa219@gmail.com**
 
